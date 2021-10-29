@@ -13,6 +13,7 @@
         <meta-data android:name="xposeddescription"
             android:value="Changes behavior of volume keys so they change ringer volume by default"/>
         <meta-data android:name="xposedminversion" android:value="82" />
+        <meta-data android:name="xposedscope" android:resource="@array/module_scope" />
     </application>
 
 </manifest>
